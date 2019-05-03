@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+  <test id="0">
+    <question>1.How many buttons are lit in the elevator?</question>
+    <answer>A.3 B.4</answer>
+  </test>
+  <test id="1">
+    <question>2.Which one is the last button lit by Jerry?</question>
+    <answer>A.The first one on the left B.The second one on the right</answer>
+  </test>
+  <test id="2">
+    <question>3.How many people in total in the second GIF?</question>
+    <answer>A.7 B.6</answer>
+  </test>
+  <test id="3">
+    <question>4.What is Rick doing in the second GIF?</question>
+    <answer>A.Dancing B.Asking for help</answer>
+  </test>
+  <test id="4">
+    <question>5.what is the picture placed on the wall?</question>
+    <answer>A.A flower B.An umbrella</answer>
+  </test>
+  <test id="5">
+    <question>6.what's the color of the object flying out of the house?</question>
+    <answer>A.Pink B.Blue</answer>
+  </test>
+  <test id="6">
+    <question>7.What's written on the board of the first person driven to the sky by balloons?</question>
+    <answer>A.Goth B.Thief</answer>
+  </test>
+  <test id="7">
+    <question>8.How many people wear white hats in the forth GIF?</question>
+    <answer>A.1 B.2</answer>
+  </test>
+  <test id="8">
+    <question>9.How many GIFs has shown the scene of balloon?</question>
+    <answer>A.1 B.2</answer>
+  </test>
+  <test id="9">
+    <question>10.How many times does female appear in those GIFs in total?</question>
+    <answer>A.3 B.2</answer>
+  </test>
+  <print/>
+</tests>
